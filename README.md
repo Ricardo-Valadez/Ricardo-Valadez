@@ -5,7 +5,9 @@
 Me llamo Ricardo y me puedes decir Richi, soy estudiante universitario cursando la carrera de Sistemas Computacionales, siempre me gusta investigar que son otros aspectos en el que puedo mejorar como programador.
  
 Los lenguajes de programación que conozco son: C#, CSS, SQL.
- 
+
+Aparte de hablar español hablo muy bien el ingles 
+
 - ⚡ Fun fact: Me gusta mucho pintar y dibujar en mi tiempo libre
 
 <!--**Ricardo-Valadez/Ricardo-Valadez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
